@@ -1,4 +1,0 @@
-uses: JamesIves/github-pages-deploy-action@master
-with:
-  nojekyll: true
-  # ...
